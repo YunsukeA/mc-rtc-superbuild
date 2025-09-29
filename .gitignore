@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 build/
 devel/
 install/
 **/.devpod-internal
 .ccache/
+=======
+build/*
+CMakeCache.txt
+cmake.check_cache
+>>>>>>> 5964213 (add gitignore)
